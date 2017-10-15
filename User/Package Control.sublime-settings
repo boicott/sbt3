@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Emmet Css Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"tern_for_sublime",
+		"Vuejs Complete Package"
+	]
+}
